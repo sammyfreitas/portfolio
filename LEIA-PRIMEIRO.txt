@@ -1,0 +1,23 @@
+PORTFÓLIO ANTHONY FREITAS — VERSÃO 4.1
+
+1. Extraia este pacote em uma pasta nova.
+2. Não copie os arquivos por cima de uma versão anterior.
+3. Abra o PowerShell dentro desta pasta.
+4. Execute:
+
+   npm install
+   npm run dev
+
+5. Abra o endereço mostrado no terminal.
+
+COMO CONFIRMAR A VERSÃO
+
+No começo do site deve aparecer o selo VERSÃO 4.1.
+O indicador de áreas deve mostrar 9 frentes, e não 4.
+Logo depois dos projetos em destaque deve existir a seção
+“EXPLORE POR ÁREA — Projetos organizados por tipo”.
+
+PASTA DIST
+
+Este pacote já contém uma pasta dist atualizada. Ela é o resultado de
+npm run build e pode ser usada para conferência ou publicação.
