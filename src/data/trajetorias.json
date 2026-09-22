@@ -1,0 +1,66 @@
+[
+  {
+    "id":"alex",
+    "nome":"Alex",
+    "titulo":"Da experiência no supermercado à formação em tecnologia",
+    "texto":"Após a formação em Assistente Administrativo, avançou para a área de tecnologia e conquistou bolsa do ProUni em Análise e Desenvolvimento de Sistemas.",
+    "tipo":"História de impacto autorizada"
+  },
+  {
+    "id":"gustavo",
+    "nome":"Gustavo",
+    "titulo":"Criatividade e programação mesmo com poucos recursos",
+    "texto":"Ainda menor de idade, programou usando celular e computador emprestado. Desenvolveu um sistema de carteirinha utilizado por uma escola estadual, além de projetos de e-commerce, HelivesBrand e gráfica.",
+    "tipo":"História de impacto autorizada"
+  },
+  {
+    "id":"maurilio",
+    "nome":"Maurilio",
+    "titulo":"Formação Back-end e primeiro lugar no curso técnico",
+    "texto":"Militar e estudante de Back-end, ampliou sua formação tecnológica e alcançou o primeiro lugar no curso técnico.",
+    "tipo":"História de impacto autorizada"
+  },
+  {
+    "id":"caroline-moura",
+    "nome":"Caroline Moura",
+    "titulo":"Dados, formação contínua e nova atuação profissional",
+    "texto":"Pessoa autista, avançou pelos estudos em Análise de Dados, graduações e formação profissional, chegando à atuação como Agente Administrativa na Light.",
+    "tipo":"História de impacto autorizada"
+  },
+  {
+    "id":"gabriel",
+    "nome":"Gabriel",
+    "titulo":"Da formação Full Stack ao primeiro emprego em tecnologia",
+    "texto":"Estudou Front-end e Back-end, participou de hackathon com mentoria e conquistou seu primeiro trabalho em tecnologia, atuando com Inteligência Artificial e Automação.",
+    "tipo":"História de impacto autorizada"
+  },
+  {
+    "id":"guilherme-felipe",
+    "nome":"Guilherme Felipe",
+    "titulo":"De obras e eletrotécnica à infraestrutura de TI na FUNARJ",
+    "texto":"Após o curso de Redes, ingressou na infraestrutura de TI da FUNARJ e passou a abrir oportunidades para outros ex-alunos, incluindo Marcos Silva, João Victor e Caio.",
+    "citacao":"Um dia eu fui o aluno buscando meu espaço. Hoje consigo, dentro das minhas possibilidades, abrir algumas portas para quem está começando.",
+    "tipo":"História de impacto e citação autorizadas"
+  },
+  {
+    "id":"carla",
+    "nome":"Carla",
+    "titulo":"Conhecimento aplicado a negócios locais",
+    "texto":"Passou a criar sites e landing pages para comerciantes, transformando o aprendizado em serviço e oportunidade profissional.",
+    "tipo":"História de impacto autorizada"
+  },
+  {
+    "id":"patricia",
+    "nome":"Patrícia",
+    "titulo":"Excel aplicado a projetos reais",
+    "texto":"Passou a utilizar recursos avançados do Excel em suas atividades e continuou compartilhando projetos e resultados depois do curso.",
+    "tipo":"História de impacto autorizada"
+  },
+  {
+    "id":"kaio-victor",
+    "nome":"Kaio Victor",
+    "titulo":"Infraestrutura, redes e suporte",
+    "texto":"Seguiu os estudos em Redes de Computadores e conquistou estágio em Help Desk na Ghetti Tecnologia, com foco em infraestrutura, redes e suporte.",
+    "tipo":"História de impacto autorizada"
+  }
+]

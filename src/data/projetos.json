@@ -1,0 +1,6 @@
+{
+  "campos": ["portfolio","titulo","area","subtipo","origem","status","destaque","pagina","repositorio","imagem","galeria","tecnologias"],
+  "origens": ["projeto-autoral","bootcamp","curso","projeto-para-cliente","projeto-educacional","projeto-orientado"],
+  "areas": ["front-end","back-end","dados","jogo","mobile","integracoes","narrativas","infraestrutura-dispositivos","educacao-mentoria"],
+  "observacao": "Somente projetos marcados com portfolio=true devem aparecer automaticamente. Destaque controla a promoção na página inicial."
+}

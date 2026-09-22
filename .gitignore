@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+
+# Arquivos locais e do sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example

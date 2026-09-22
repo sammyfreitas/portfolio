@@ -1,0 +1,15 @@
+{
+  "perfilSkoob": "https://www.skoob.com.br/pt/author/8045/books",
+  "livros": [
+    {"titulo":"Inquebrável","descricao":"Participação com o conto “Macumbeira com orgulho”.","capa":"inquebravel.jpg","link":"https://www.amazon.com.br/dp/8593077315"},
+    {"titulo":"Contos","descricao":"Coletânea com os textos “Rugas” e “Desilusões de uma vida”.","capa":"contos.jpg","link":"https://www.skoob.com.br/pt/book/316220"},
+    {"titulo":"Retalhos de Sonhos — Crônicas de Vida","descricao":"Coletânea com 15 contos e crônicas.","capa":"retalhos-de-sonhos.jpg","link":"https://www.skoob.com.br/pt/book/316221"},
+    {"titulo":"Muito prazer, meu nome é você","descricao":"Livro de poesias.","capa":"muito-prazer.jpg","link":"https://www.skoob.com.br/pt/book/316213"}
+  ],
+  "minilivros": [
+    {"titulo":"Coisas de Criança","descricao":"Livreto.","capa":"coisas-de-crianca.jpg","link":"https://www.skoob.com.br/pt/book/316228"},
+    {"titulo":"Vestígios de Sonhos","descricao":"Livreto — aguardando uma imagem melhor da capa.","capa":null,"link":"https://www.skoob.com.br/pt/book/316232"},
+    {"titulo":"O suspense do Encontro","descricao":"Livreto.","capa":"o-suspense-do-encontro.jpg","link":"https://www.skoob.com.br/pt/book/316236"},
+    {"titulo":"Sustentabilidade Já","descricao":"Livreto.","capa":"sustentabilidade-ja.jpg","link":"https://www.skoob.com.br/pt/book/316233"}
+  ]
+}

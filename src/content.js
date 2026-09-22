@@ -36,6 +36,32 @@ export const blogChronicles = [
   ['Desafio de Natal','http://retalhosassimetricos.blogspot.com/2012/12/desafio-de-natal-by-sammy-freitas.html']
 ]
 
+export const blogArticles = [
+  'Palpites do Oscar 2015','Maratona Literária — Folia de Tinta','Censo Literário 2014',
+  'Patrulha da Língua Portuguesa — Uso do Infinitivo na internet','Retrospectiva literária 2013',
+  'DICAS: Se não x Senão','Codex de Ouro 2013 — Premiados!',
+  '10 coisas que talvez todo aspirante a escritor deveria saber',
+  'Principais Lançamentos Editoriais em Agosto/13','Toda revolução começa com uma fagulha...',
+  'Um Kindle para chamar de meu...','Apresentação','Onde vamos parar?',
+  'Feliz Dia Internacional da Mulher!!!!','Impossível...'
+]
+
+export const bookReviews = [
+  'A Menina Mais Fria de Coldtown','Entrevista com Vampiro — Anne Rice','Ele está de volta — Timur Vermes',
+  'Fim — Fernanda Torres','Através do Espelho — Jostein Gaarder','O Pacto — Joe Hill',
+  'O oceano no fim do caminho — Neil Gaiman','Cidade dos Anjos Caídos','O diário de Bridget Jones',
+  'O Amor nos tempos do Cólera — Gabriel García Márquez','The Walking Dead — Caminho para Woodbury',
+  'O fantástico mundo de Zofia e outras histórias','Terra das Sombras — A mediadora',
+  'O Inverno das Fadas — Carolina Munhoz','Dewey, um gato entre livros','O poder do fogo',
+  'Sushi','A culpa é das estrelas'
+]
+
+export const culturalCriticism = [
+  'O Pequeno Príncipe — Teatro Municipal do Rio de Janeiro','Homem de Ferro 3',
+  'Análise da música Faroeste Caboclo','Exposição Kandinsky',
+  'Exposição Sagrada Família — Centro Cultural dos Correios/RJ'
+]
+
 export const projectAreas = [
   {id:'front',title:'Front-end',icon:'code',summary:'Interfaces, landing pages, experiências responsivas e projetos publicados.',items:[
     ['Página Daniel Lins','Site pessoal e apresentação profissional.','https://sammyfreitas.github.io/page_daniel_lins/'],

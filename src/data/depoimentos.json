@@ -1,0 +1,79 @@
+[
+  {
+    "id": "bernardo-passos",
+    "nome": "Bernardo Passos",
+    "relacao": "Ex-aluno • Raciocínio Lógico Matemático",
+    "origem": "LinkedIn",
+    "data": "12/09/2025",
+    "url": "https://www.linkedin.com/in/bernardo-passos-4864b2284/",
+    "texto": "Tive o PRIVILÉGIO de ser aluno do professor Anthony da disciplina Raciocínio Lógico Matemático. Sua didática é tão boa que até hoje não me esqueço das dicas da teoria e consigo juntar com as práticas do dia a dia. O Anthony ensina e aprende junto com a turma, é isso que o define como EDUCADOR. Obrigado, Anthony. Espero que um dia eu consiga retribuir todo o afinco que você teve em me ensinar. Pode ter certeza que cada gota de suor valeu a pena!",
+    "adaptado": false
+  },
+  {
+    "id": "karina-burini",
+    "nome": "Karina Burini Correia",
+    "relacao": "Colega em projetos profissionais",
+    "origem": "LinkedIn",
+    "data": "26/02/2021",
+    "url": "https://www.linkedin.com/in/karinaburini/",
+    "texto": "Trabalhei com Anthony em alguns projetos durante mais de uma década e durante todo esse tempo ele se mostrou um profissional dedicado e esforçado, muitas vezes transformando o impossível em possível. Sendo sempre bastante enérgico, Anthony parecia conseguir estar em vários lugares ao mesmo tempo ajudando os demais colegas de equipe. Com um grande perfeccionismo, ele prestava atenção sempre nos mínimos detalhes, tendo também um ótimo relacionamento tanto com a equipe quanto com o cliente.",
+    "adaptado": true
+  },
+  {
+    "id": "marcia-alves",
+    "nome": "Marcia Alves, MSc, PMP",
+    "relacao": "Colega na Hitachi Consulting",
+    "origem": "LinkedIn",
+    "data": "07/02/2021",
+    "url": "https://www.linkedin.com/in/marcia-alves-msc-pmp/",
+    "texto": "Trabalhei com Anthony na Hitachi Consulting e ele sempre desempenhou um papel facilitador na posição de secretário executivo, nos apoiando e entregando com presteza e compromisso. Sempre com um livro nas mãos, alimento para sua curiosidade contínua, Anthony demonstra vontade de aprender e se desenvolver continuamente.",
+    "adaptado": true
+  },
+  {
+    "id": "rodrigo-telles",
+    "nome": "Rodrigo Telles Costa",
+    "relacao": "Colega na Hitachi Consulting",
+    "origem": "LinkedIn",
+    "data": "30/06/2020",
+    "url": "https://www.linkedin.com/in/rodrigotelles/pt/",
+    "texto": "Trabalhei com Anthony por um longo tempo na Hitachi. Como secretário, prestava um serviço exemplar. Extremamente comprometido e muito focado em atender as demandas dos seus clientes internos na empresa.",
+    "adaptado": true
+  },
+  {
+    "id": "marcelo-rocha",
+    "nome": "Marcelo Rocha",
+    "relacao": "Colega em contexto profissional",
+    "origem": "LinkedIn",
+    "data": "03/04/2019",
+    "url": "https://www.linkedin.com/in/marcelorocha-anjoverde/",
+    "texto": "Anthony é um profissional dedicado, estudioso, que aceita desafios e os cumpre. Não tenho dúvidas de que o contrataria de novo.",
+    "adaptado": true
+  },
+  {
+    "id": "senai-redes-2024",
+    "nome": "Tiago Ferreira",
+    "relacao": "Operador de Sistemas Computacionais em Rede • SENAI Maracanã",
+    "origem": "SAC Firjan • Protocolo 20240619",
+    "data": "25/11/2024",
+    "texto": "Durante esse período, tive a oportunidade de aprender desde os fundamentos básicos até os mais avançados, e o resultado foi muito positivo na minha formação. Apesar das dificuldades devido ao ataque que afetou o sistema do SENAI, o professor manteve o compromisso com as aulas e conseguiu levar a turma até o final. A montagem de redes no Packet Tracer e as atividades práticas já fazem diferença no meu dia a dia de trabalho e nos projetos que planejo para o futuro.",
+    "adaptado": false
+  },
+  {
+    "id": "wanderson-lucio",
+    "nome": "Wanderson Lucio Dantas",
+    "relacao": "Ex-aluno • Programador Front-End EAD • SENAI Maracanã",
+    "origem": "SAC Firjan • Protocolo 20240640",
+    "data": "29/11/2024",
+    "texto": "Desde o início do curso, até depois do término, o Anthony sempre esteve lá para tirar minhas dúvidas e as dúvidas dos seus alunos. Quando iniciei um processo para estágio em Back-end, ele me incentivou, deu dicas de como estudar e uma palavra acolhedora. Hoje consegui minha primeira vaga na área de Tecnologia, graças ao conhecimento passado pelo professor e ao meu esforço. Isso mostra não só o comprometimento com o que ele ensina, mas também a paixão de lecionar.",
+    "adaptado": false
+  },
+  {
+    "id": "asafe-bezerra",
+    "nome": "Asafe da Silva Lages Bezerra",
+    "relacao": "Ex-aluno • Operador de Sistemas Operacionais em Rede • SENAI Maracanã",
+    "origem": "SAC Firjan • Protocolo 20260006",
+    "data": "02/01/2026",
+    "texto": "Quero agradecer em especial a este ser humano tão especial, que não somente me ajudou a aprender muito e me capacitar para o mercado de trabalho, mas também me ajudou a voltar ao mercado depois de um período desempregado. O curso enriqueceu meu currículo e foi diferencial na minha entrevista. Creio que não fui o único impactado pelo método pedagógico tão eficaz e humano. Hoje estou atuando em uma ótima empresa.",
+    "adaptado": false
+  }
+]

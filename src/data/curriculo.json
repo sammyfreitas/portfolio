@@ -1,0 +1,31 @@
+{
+  "filtros": [
+    {"id":"completo","label":"Completo"},
+    {"id":"tecnologia","label":"Tecnologia"},
+    {"id":"engenharia","label":"Engenharia e integrações"},
+    {"id":"educacao","label":"Educação"},
+    {"id":"administracao","label":"Administração e gestão"},
+    {"id":"dados","label":"Dados e dashboards"},
+    {"id":"comunicacao","label":"Comunicação e escrita"}
+  ],
+  "experiencias": [
+    {"periodo":"2020 — atual","titulo":"CarrierWeb • Engenharia de Software","descricao":"Integrações de rastreadores, telemetria, sensores, protocolos, homologação e automações.","categorias":["tecnologia","engenharia","dados"]},
+    {"periodo":"2023 — atual","titulo":"Firjan SENAI Maracanã • Docência","descricao":"Front-end, back-end, dados, Power BI, redes, infraestrutura, Administração e projetos integradores.","categorias":["educacao","tecnologia","dados","administracao"]},
+    {"periodo":"2025 — atual","titulo":"Firjan • Comitê de Diversidade e Inclusão","descricao":"Iniciativas de diversidade, equidade, inclusão, pertencimento e acessibilidade.","categorias":["educacao","administracao","comunicacao"]},
+    {"periodo":"2020 — 2022","titulo":"FleetDesk • Software Quality Assurance","descricao":"Estruturação de QA, automação, APIs, E2E, regressão, carga e qualidade de entrega.","categorias":["tecnologia","engenharia"]},
+    {"periodo":"2014 — 2018","titulo":"F2C / Hitachi Consulting","descricao":"Operações administrativas, contratos, viagens, despesas e suporte executivo.","categorias":["administracao","comunicacao"]},
+    {"periodo":"2011 — 2014","titulo":"Madeiras e Ferragens Limites","descricao":"Estoque, inventários, saneamento de dados e implantação de compras on-line.","categorias":["administracao","dados"]},
+    {"periodo":"2006 — 2011","titulo":"Vale","descricao":"Custos, suprimentos, pessoas, KPIs, orçamento, auditorias, contratos e sistemas corporativos.","categorias":["administracao","dados","tecnologia"]}
+  ],
+  "formacoes": [
+    {"periodo":"2026 — atual","titulo":"Ciência de Dados e Docência do Ensino Superior","descricao":"Especializações lato sensu na UniCesumar.","categorias":["dados","educacao","tecnologia"]},
+    {"periodo":"2025 — 2027","titulo":"Jogos Digitais","descricao":"Tecnólogo em andamento na Unifatecie.","categorias":["tecnologia","comunicacao"]},
+    {"periodo":"2025","titulo":"Análise e Desenvolvimento de Sistemas","descricao":"Tecnólogo concluído na Estácio.","categorias":["tecnologia","engenharia"]},
+    {"periodo":"2022 — 2025","titulo":"Engenharia de Software","descricao":"Bacharelado na UniCesumar.","categorias":["tecnologia","engenharia"]},
+    {"periodo":"Formação anterior","titulo":"Administração, Jornalismo e Ciência da Computação","descricao":"Formações que sustentam uma trajetória multidisciplinar.","categorias":["administracao","comunicacao","tecnologia"]}
+  ],
+  "links": {
+    "linkedin":"https://www.linkedin.com/in/tony-s-freitas/",
+    "lattes":"https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=325FFA591C38039D4632C810D060A74C"
+  }
+}
